@@ -1,12 +1,8 @@
-siteTitle: Netlify CMS + React Starter
-siteUrl: 'https://netlify-cms-react-starter.netlify.com'
-siteDescription: >-
-  A starter project for creating lightning-fast, offline-first websites with
-  Netlify CMS and React.
+siteTitle: William Ernesto Matos' Personal Site
+siteUrl: 'https://www.williamernesto.com'
+siteDescription: A website for showcasing William Ernesto Matos' past work.
 socialMediaCard:
   image: /images/uploads/card-og.png
-  twitterCreatorAccount: '@Jinksi'
-  twitterSiteAccount: ''
-headerScripts: |-
-  <!-- Add your analytics scripts / verification meta here -->
-enableServiceWorker: false
+  twitterCreatorAccount: '@william_ernesto'
+  twitterSiteAccount: 'https://twitter.com/william_ernesto'
+headerScripts: <!-- Add your analytics scripts / verification meta here -->
